@@ -1,0 +1,26 @@
+.jumbotron {
+  padding-top: 16rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+#contact {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 15rem;
+  padding-bottom: 20rem;
+}
+
+.card-body{
+  text-decoration: none;
+}
+.card-body a:hover {
+  background: #e2edff;
+  text-decoration: none;
+}
+
